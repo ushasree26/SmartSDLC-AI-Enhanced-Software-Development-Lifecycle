@@ -5,9 +5,14 @@ SmartSDLC is an intelligent AI-powered platform that automates the various phase
 # 📬 Team Members  
 
 This project was developed as part of a collaborative academic/innovation initiative. Meet our SmartSDLC team:
+
+
 Team Lead: Yaragalla Usha Sree
+
 Team Member 1: Valaparla Akash
+
 Team Member 2: Kunchanapalli Durgaprasad
+
 Team Member 3: Padagandla Venkata Subhash Reddy.
 
 
